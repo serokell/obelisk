@@ -1,8 +1,8 @@
 {
-  "owner": "reflex-frp",
+  "owner": "serokell",
   "repo": "reflex-platform",
-  "branch": "release/0.5.3.0",
+  "branch": "rvem/rvem/kiln-darwin-nixpkgs-fix-1",
   "private": false,
-  "rev": "9779ea3b4c87fdc971057c561262696d5e9b1847",
-  "sha256": "0v87ilal9355xwz8y9m0zh14pm9c0f7pqch0854kkj92ybc5l62q"
+  "rev": "b5af8dde5e03774ace3679015f48c1bba0291a80",
+  "sha256": "16ywgq3rvw182s279fch2jfxiz0l8j7bbhc9ksxaqzviazs1426s"
 }
